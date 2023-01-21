@@ -1,23 +1,23 @@
 <resources>
-  <string name="app_name">Photo Editor</string>
-  <string name="label_brush">Brush</string>
-  <string name="label_shape">Shape</string>
-  <string name="label_oval">Oval</string>
-  <string name="label_rectangle">Rectangle</string>
-  <string name="label_line">Line</string>
+  <string name="app_name">Fotobewerker</string>
+  <string name="label_brush">Kwast</string>
+  <string name="label_shape">Vorm</string>
+  <string name="label_oval">Ovaal</string>
+  <string name="label_rectangle">Rechthoek</string>
+  <string name="label_line">Lijn</string>
   <string name="label_emoji">Emoji</string>
   <string name="label_sticker">Sticker</string>
-  <string name="label_eraser">Eraser</string>
-  <string name="label_eraser_mode">Eraser Mode</string>
-  <string name="label_text">Text</string>
+  <string name="label_eraser">Gum</string>
+  <string name="label_eraser_mode">Gum modus</string>
+  <string name="label_text">Tekst</string>
   <string name="label_filter">Filter</string>
-  <string name="label_adjust">Adjust</string>
-  <string name="msg_save_image">Are you want to exit without saving image ?</string>
-  <string name="app_intent_name">PhotoEditor</string>
-  <string name="msg_save_image_to_share">Please save image to share</string>
-  <string name="msg_share_image">Share Image</string>
-  <string name="save_error">Failed to save. Please try again!</string>
-  <string name="done">Done</string>
+  <string name="label_adjust">Aanpassen</string>
+  <string name="msg_save_image">Wil je afsluiten zonder de afbeelding op te slaan?</string>
+  <string name="app_intent_name">Fotobewerker</string>
+  <string name="msg_save_image_to_share">Sla de afbeelding op om te delen</string>
+  <string name="msg_share_image">Deel afbeelding</string>
+  <string name="save_error">Kan niet opslaan. Probeer het opnieuw!</string>
+  <string name="done">Opslaan</string>
 
   <string-array name="photo_editor_emoji">
 
